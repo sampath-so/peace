@@ -1,4 +1,4 @@
-# area of circle
+# To find the area of a circle 
 
 circle = input("radius is: ")
 radius = int(circle)
